@@ -5,6 +5,7 @@ import Awsome from './components/Awsome'
 import Team from './components/Team'
 import Client from './components/Client';
 import Form from './components/Formpart';
+import Footer from './components/Footer';
 
 const App = () => {
   return (
@@ -14,6 +15,7 @@ const App = () => {
       <Team />
       <Client />
       < Form/>
+      < Footer/>
     </div>
   )
 }
