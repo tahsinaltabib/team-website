@@ -13,7 +13,7 @@
   font-size: 14px;
 }
 .navbarsection .menuitem:hover{
-  color: #00413D;
+  color: #046333;
 }
 
 .navbarsection .btn{
@@ -26,7 +26,7 @@
   font-size: 12px;
 }
 .navbarsection .btn:hover{
-  background-color: #00413D;
+  background-color: #046333;
 }
 /***********navbar part end**************/
 
@@ -71,10 +71,74 @@
 /***********Awsome part end**************/
 
 /***********Team part start**************/
+.team-sec{
+  padding: 64px 0px;
+}
+
+.team-sec .team-heading{
+  text-align: center;
+}
+
+.team-sec .team-heading h2{
+  padding-bottom: 16px;
+  font-family: "Inter", sans-serif;
+  font-weight: 700;
+  font-size: 32px;
+}
+
+.team-sec .team-heading p{
+  font-family: "Inter", sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+  width: 580px;
+  display: inline-block;
+}
+
+.team-sec .card-main{
+  margin-top: 64px;
+  text-align: center;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.team-sec .card-main .card{
+  border-radius: 0;
+}
+
+.team-sec .card-main .card-title{
+  font-family: "Inter", sans-serif;
+  font-weight: 700;
+  font-size: 22px;
+}
+
+.team-sec .card-main p{
+  font-family: "Inter", sans-serif;
+  font-weight: 500;
+  font-size: 18px;
+}
+
+.team-sec .card-main .card-text{
+  font-family: "Inter", sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+}
 /***********Team part end**************/
 
-/***********Team part start**************/
-/***********Team part end**************/
+/***********Client part start**************/
+.clientPart h2{
+  text-align: center;
+  font-family: "Inter", sans-serif;
+  font-weight: 700;
+  font-size: 18px;
+}
+.clientPart .client-img{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}
+/***********Client part end**************/
 
 /***********Team part start**************/
 /***********Team part end**************/
