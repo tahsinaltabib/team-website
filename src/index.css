@@ -1,3 +1,4 @@
+/***********navbar part start**************/
 .navbarsection{
   padding: 18px 0px !important;
 }
@@ -27,3 +28,56 @@
 .navbarsection .btn:hover{
   background-color: #00413D;
 }
+/***********navbar part end**************/
+
+/***********Awsome part start**************/
+
+.aw-sec{
+  padding: 64px 0px;
+}
+
+.aw-sec h1{
+  font-family: "Inter", sans-serif;
+  font-weight: 700;
+  font-size: 56px;
+  width: 545px;
+}
+
+.aw-sec p{
+  padding: 30px 0px;
+  font-family: "Inter", sans-serif;
+  font-weight: 400;
+  font-size: 18px;
+  width: 555px;
+}
+
+.aw-sec .awbtn{
+  background-color: black;
+  color: #ffff;
+  padding: 8px 20px;
+  border: none;
+  border-radius: 0px;
+  font-family: "Inter", sans-serif;
+  font-weight: 500;
+  font-size: 12px;
+}
+.aw-sec .awbtn:hover{
+  background-color: #00413D;
+}
+
+.aw-sec .className{
+  width: 100%;
+}
+/***********Awsome part end**************/
+
+/***********Team part start**************/
+/***********Team part end**************/
+
+/***********Team part start**************/
+/***********Team part end**************/
+
+/***********Team part start**************/
+/***********Team part end**************/
+
+/***********Team part start**************/
+/***********Team part end**************/
