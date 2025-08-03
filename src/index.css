@@ -126,6 +126,9 @@
 /***********Team part end**************/
 
 /***********Client part start**************/
+.clientPart{
+  padding: 64px 0px;
+}
 .clientPart h2{
   text-align: center;
   font-family: "Inter", sans-serif;
@@ -133,6 +136,7 @@
   font-size: 18px;
 }
 .clientPart .client-img{
+  padding-top: 32px;
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
@@ -140,8 +144,55 @@
 }
 /***********Client part end**************/
 
-/***********Team part start**************/
-/***********Team part end**************/
+/***********Form part start**************/
+.form-part h2{
+    font-family: "Inter", sans-serif;
+    font-size: 32px;
+    font-weight: 700;
+
+}
+
+.form-part p{
+    font-family: "Inter", sans-serif;
+    font-size: 18px;
+    font-weight: 500;
+
+}
+
+.form-part{
+    padding: 64px 0px;
+}
+
+
+.form-part .maintouch{
+    text-align: center;
+    margin-bottom: 40px;
+    
+}
+
+
+
+.form-part .form-design{
+    width: 500px;
+    margin: 0 auto;
+}
+
+
+.form-part .form-design .form-border{
+    border: 2px solid black;
+}
+
+.form-part .form-design .form-btn{
+    font-family: "Inter", sans-serif;
+    font-size: 12px;
+    font-weight: 500;
+    display: block;
+    width: 100%;
+    padding: 12px 0px;
+    background-color: black;
+    color: white;
+}
+/***********Form part end**************/
 
 /***********Team part start**************/
 /***********Team part end**************/
